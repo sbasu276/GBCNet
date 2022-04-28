@@ -1,14 +1,18 @@
 # GBCNet
-This is the official repository for GBCNet with the Multi-Scale Second Order Pooling classifier. GBCNet classifies gallbladder cancer (GBC) from ultrasound images with super-human accuracy, beating SOTA deep CNN-based classifiers.
+This is the official repository for the paper titled "Surpassing the Human Accuracy: Detecting Gallbladder Cancer from USG Images with Curriculum Learning" ([https://arxiv.org/abs/2204.11433](https://arxiv.org/abs/2204.11433)). This paper proposed GBCNet, a specialized CNN model, for classifying gallbladder cancer (GBC) from ultrasound images. GBCNet introduces a novel "multi-scale second-order pooling" block for rich feature encoding from ultrasound images. The paper further proposed a novel visual acuity-based curriculum to train GBCNet. The proposed model beats SOTA deep CNN-based classifiers and human radiologists in classifying GBC from ultrasound images. 
 
+### Installations
 We will update the repository soon with the requirements file for the library installations. 
 
-#### Model Weights
+### Model Weights
 Download the pre-trained models:
 * [GBCNet](https://drive.google.com/file/d/1uBkzlydC9vY8kQsgrlg6983q5WLAK2wS/view)
 * [GBCNet with Curriculum](https://drive.google.com/file/d/1s9DMOtgK3TaYBitaYD9IcepmHwxgFZTt/view)
 * [Initial weights (for initialization of training)](https://drive.google.com/file/d/14V0UIVWGFE0Ez3B4pxZUmDLjWRUmV5tP/view)
 
-#### Dataset
-We contributed the first public dataset for gallbladder cancer detection from ultrasound images. The dataset can be found at 
+### Dataset
+We contributed the first public dataset of 1255 abdominal ultrasound images collected from 218 patients for gallbladder cancer detection. The dataset can be found at: 
 [https://gbc-iitd.github.io/data/gbcu](https://gbc-iitd.github.io/data/gbcu)
+
+### Citation
+bibtex coming soon
