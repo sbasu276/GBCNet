@@ -15,4 +15,12 @@ We contributed the first public dataset of 1255 abdominal ultrasound images coll
 [https://gbc-iitd.github.io/data/gbcu](https://gbc-iitd.github.io/data/gbcu)
 
 ### Citation
-bibtex coming soon
+```
+@inproceedings{basu2022surpassing,
+  title={Surpassing the Human Accuracy: Detecting Gallbladder Cancer from USG Images with Curriculum Learning},
+  author={Basu, Soumen and Gupta, Mayank and Rana, Pratyaksha and Gupta, Pankaj and Arora, Chetan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={20886--20896},
+  year={2022}
+}
+```
