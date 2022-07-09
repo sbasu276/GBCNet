@@ -28,4 +28,4 @@ We contributed the first public dataset of 1255 abdominal ultrasound images coll
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) for Noncommercial use only. Any commercial use should obtain formal permission.
 
 ### Acknowledgement
-This code base is built upon Res2Net ([code](https://github.com/Res2Net/Res2Net-PretrainedModels)|[paper](https://arxiv.org/abs/1904.01169)) and GSoP([code](https://github.com/ZilinGao/Global-Second-order-Pooling-Convolutional-Networks)|[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gao_Global_Second-Order_Pooling_Convolutional_Networks_CVPR_2019_paper.pdf)). Thanks to the authors of both the papers for making their code available for public usage.  
+This code base is built upon [Res2Net](https://github.com/Res2Net/Res2Net-PretrainedModels), [MPN-COV](https://github.com/jiangtaoxie/MPN-COV), and [GSoP](https://github.com/ZilinGao/Global-Second-order-Pooling-Convolutional-Networks). Thanks to the authors of these papers for making their code available for public usage.  
