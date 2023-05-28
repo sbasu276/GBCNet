@@ -6,9 +6,9 @@ We will update the repository soon with the requirements file for the library in
 
 ### Model Weights
 Download the pre-trained models:
-* [GBCNet](https://drive.google.com/file/d/1uBkzlydC9vY8kQsgrlg6983q5WLAK2wS/view)
-* [GBCNet with Curriculum](https://drive.google.com/file/d/1s9DMOtgK3TaYBitaYD9IcepmHwxgFZTt/view)
-* [Initial weights (warmup ckpt, use if you're training)](https://drive.google.com/file/d/14V0UIVWGFE0Ez3B4pxZUmDLjWRUmV5tP/view)
+* [GBCNet](https://drive.google.com/file/d/1yzimpNKLr5z04CUZA7ls7HkEECZc5JQ7/view)
+* [GBCNet with Curriculum](https://drive.google.com/file/d/1d3T-n4LdpeuBgw9CxVxpGf6IAb1iiIAm/view)
+* [Initial weights (warmup ckpt, use if you're training)](https://drive.google.com/file/d/1sJ6DflfoMMkM9lewlq5k2fna3SKFHF8r/view)
 
 ### Dataset
 We contributed the first public dataset of 1255 abdominal ultrasound images collected from 218 patients for gallbladder cancer detection. The dataset can be found at: 
