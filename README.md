@@ -14,6 +14,10 @@ Download the pre-trained models:
 We contributed the first public dataset of 1255 abdominal ultrasound images collected from 218 patients for gallbladder cancer detection. The dataset can be found at: 
 [https://gbc-iitd.github.io/data/gbcu](https://gbc-iitd.github.io/data/gbcu)
 
+### ROI Detection
+The FasterRCNN-based ROI detection model code and weight is available in [this link](https://drive.google.com/file/d/1E_LoLKjZ1Co-HrAcPbDasHpDXrJ3Caw2/view). 
+The output of this model is already stored in the `roi_pred.json` file in the dataset.
+
 ### Citation
 ```
 @inproceedings{basu2022surpassing,
